@@ -1,5 +1,4 @@
 # Dice-Game
-Dice game
 
 ![banner resmi](https://github.com/emrepiristinee/Dice-Game/blob/main/photos/yahtzee.png)
 
